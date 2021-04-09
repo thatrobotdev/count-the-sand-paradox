@@ -1,0 +1,23 @@
+{
+  "name": "count-sand-paradox",
+  "version": "1.0.0",
+  "description": "A discord bot for people wanting to test the Sorites paradox by reverse counting sand in a heap.",
+  "homepage": "https://github.com/thatrobotdev/count-sand-paradox#readme",
+  "bugs": "https://github.com/thatrobotdev/count-sand-paradox/isssues",
+  "repository": "github:thatrobotdev/count-sand-paradbox",
+  "license": "MIT",
+  "author": "James Kerrane <hi@jameskerrane.com> (https://jameskerrane.com)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "dotenv": "^8.2.0",
+    "sequelize": "^6.6.2",
+    "sqlite3": "^5.0.2"
+  },
+  "devDependencies": {
+    "eslint": "^7.23.0"
+  }
+}
